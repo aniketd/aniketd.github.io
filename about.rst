@@ -70,13 +70,16 @@ Experience
 ----------
 
 | **Technical Lead** *, Theatro Labs — Feb 2015 - present.*
+|
 | **Senior Software Engineer** *, Theatro Labs — Feb 2014 - Feb 2015.*
+|
 | :sub:`Theatro is a pioneer in the voice-enabled enterprise wearable industry and provides a platform for retail, hospitality and manufacturing enterprises.`
 | :sub:`I architect, design and implement stand-alone, multi-threaded/multi-processing/reactor-based message gateways/routers, custom monitoring and reporting tools, user-facing support tools for our voice solution, and our custom simulator for generating voice-traffic.`
 | :sub:`In the past, I implemented prototypes for a location data collection tool and a browser-based voice recorder/dispatcher, which were adopted by other teams and are now complete systems in their own stead.`
 | :sub:`I have also written scheduled audit systems, log analyzers, voice packet processors and SGRXML modifiers for the speech recognition engine.`
 | :sub:`I lead the DevOps effort for automated provisioning/deployment/delivery using Ansible/Saltstack, Fabric/Invoke, etc..`
 | :sub:`Apart from development in Python/Node.js, I'm also involved in recruiting and some fun-writing for our in-house weekly.`
+
 
 
 | **Developer** *Locus Labs (Notikum/Notiphi) — Jul 2011 - Feb 2014.*
@@ -87,6 +90,7 @@ Experience
 | :sub:`One the monitoring side, the systems use Munin for realtime resources graphing and alerts, the Graphite Stack for timing and counting graphs for our APIs, Logstash for centralized logging, and Supervisord for supervision of all running processes and crash alerts. Ansible is used for quick full-stack provisioning and Fabric for deployment.`
 | 
 | :sub:`Notikum is a personalized, contextual and location-aware promotions search engine for all major banks in Singapore. My responsibilities for Notikum included: web-mining using Scrapy and Pjscrape on PhantomJS; designing, populating and maintaining databases using MySQL; configuring the open-source search engine called Lucene using Solr to generate indexes to enable full-text search on all the content on Notikum and deploying production code on the live server. The crawlers mine data from a complex range of close to twenty websites resulting in all the information available on the Notikum website. The crawlers pipeline the scrapped data through a series of filters, data-cleaning/pruning modules, and a number of geocoding processes before finally populating the master database. Development of Notikum is no longer active.`
+
 
 | **Customer Service Associate** *(part-time), Firstsource Ltd, Bangalore — 2008-2009*
 | :sub:`Firstsource Ltd., is a multinational organization, which claims to be a forerunner in the telephonic support industry. I worked in the BSkyB support department. My responsibilities included: receiving telephone calls from all over the United Kingdom and the Republic of Ireland; providing technical support and troubleshooting their DTH set top boxes and antennae; accounting for every fault and its solution on a database using Chordiant.`
