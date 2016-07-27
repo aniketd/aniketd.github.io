@@ -57,5 +57,6 @@ div.info {
 
 @font-face {
     font-family: 'FantasqueSansMonoRegular';
-    src: url('FantasqueSansMonoRegular.ttf');
+    font-weight: normal;
+    font-style: normal;
 }
