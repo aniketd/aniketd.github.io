@@ -60,3 +60,7 @@ div.info {
     font-weight: normal;
     font-style: normal;
 }
+
+html * {
+   font-family: FantasqueSansMonoRegular !important;
+}
