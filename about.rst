@@ -45,25 +45,28 @@ Skills
 ------
 
 | Languages:
-| :sub:`Python, Javascript, Erlang, Rust, Haskell, C, SQL, Scheme`
+| :sub:`Python, Erlang, Javascript, Rust, Haskell, C, SQL, Scheme`
 
-| Web Technologies:
-| :sub:`HTML(5), CSS, AJAX, Websockets, Server-sent events`
+| Editors:
+| :sub:`Vi/Vim/NeoVim, Sublime Text, Atom`
 
 | Frameworks:
-| :sub:`Django/Flask/bottle, Ansible/Saltstack, Scrapy, Fabric/Invoke, Twisted, Autobahn, NodeJS/Socket.io`
+| :sub:`Django/Flask/bottle, Ansible/Saltstack, Scrapy, Fabric/Invoke, Twisted, Autobahn, NodeJS`
+
+| Web Technologies:
+| :sub:`HTML, CSS, AJAX, XML, XPATH, Socket.io/Websockets, Server-sent events`
 
 | Version Control:
-| :sub:`Git, Darcs (minimal)`
+| :sub:`Git, Darcs (minimal), SVN`
 
 | Operating Systems:
-| :sub:`Linux (Arch, Debian, RedHat), Mac OS X, BSD Unix, Open Solaris, Windows`
+| :sub:`Linux (Arch/Debian/RedHat), Mac OS X, BSD Unix, Open Solaris, Windows`
 
 | Cloud Platforms:
 | :sub:`Amazon AWS, Armor/Firehost, Rackspace`
 
 | Softwares:
-| :sub:`Redis, Lucene/Solr, Statsd/Graphite, Munin, Logstash, Supervisord, RabbitMQ, ZeroMQ, SQLite, PM2, MySQL`
+| :sub:`Redis, RabbitMQ, ZeroMQ, SQLite, PM2, MySQL, Logstash, Lucene/Solr, Statsd/Graphite, Munin, Supervisord`
 
 ----------
 Experience 
