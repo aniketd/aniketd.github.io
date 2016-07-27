@@ -55,3 +55,7 @@ div.info {
     font-style: italic;
 }
 
+@font-face {
+    font-family: 'FantasqueSansMonoRegular';
+    src: url('FantasqueSansMonoRegular.ttf');
+}
