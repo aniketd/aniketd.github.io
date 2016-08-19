@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/aniketd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aniketd.github.io
+  * I am aniketd (https://keybase.io/aniketd) on keybase.
+  * I have a public key with fingerprint B472 EADC 3DA5 3510 FDD9  5E20 41FC B7F5 2CC8 6EC6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101982c4f978e27bbdd42eb24b0e389d91f153e99588e0b1df17e371f6fc2a38e480a",
+            "fingerprint": "b472eadc3da53510fdd95e2041fcb7f52cc86ec6",
+            "host": "keybase.io",
+            "key_id": "41fcb7f52cc86ec6",
+            "kid": "0101982c4f978e27bbdd42eb24b0e389d91f153e99588e0b1df17e371f6fc2a38e480a",
+            "uid": "f87d606141e2e2d1c811b3b8d0032919",
+            "username": "aniketd"
+        },
+        "service": {
+            "hostname": "aniketd.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1471648532,
+    "expire_in": 157680000,
+    "prev": "3b4e39c33b1940e2114dd78ecfde6cdfd949d660600a104b6b4b1c1c60d2620a",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJdSBVBGL2mpZlGgUmaCW2lkT/t7O7dnwtmJIgZWRmhpHXZ2Zn1Ltrd
+dXevZWYmPiS9lYpFcTEkoaCiLIrAspR8UPTBP3oQMkRFX0LKv0ibtXoIemxehvnm
+nPOd7/B1R4e6IkPOjWt9bwceTIT0vrsTcBW8bIipoqCOKilPFVWK1y5chrBle0s1
+RHkoGtBAEhmFUyVBxIwAIUIcgyHDQRqzooQkoAI3iyXJLYqYhgCpQMCsAFReVRiZ
+FTEn0jKVSqmavwSbhqn5bSILOYHBMlJYJLtZN6BVhCQ3ZmgOqAoUVDejKCKPFZ4Q
+fbrlMIg5KFs4XdNJjTy8a/b+gf/PvgNrcqooIJ7mAQcwgxkEFBEAyEIR0TTLSEBy
+gBY2/fJ5TNCyXyvFNqKqUylSrNAU7OTqDPI3IL1Es30B+Gsmw9RtXdHLyLfPtg3L
+49DtSsPBX8DQ+1vJCzU/IlkSRgU2LU33Ux5AkIqtOdKAEwDPiW6WSaXwRUMzsVdz
+EG6BF2lynD64gkiykMOspLAsBBJHYwYADiESlaIizCtIRRInIZ7MTNMyoDnIQw4C
+BSg8jRieWYvGwuV+nfIIxKZcQiQtrcQv2wETU9XvO4vDXCGRrg3r1zk75orcuOXP
+5t1LC1+hqqOsUX41/65hZjXHxftGWoI5S8lnul+0tSd0p+xYih4aFibDi6hnBZ74
+U9cWMsvTPgWvt/Ins1fHO9Rv4nDOazNpsOPEYN2tNmNsavlr5pXg6YZW+5I3tz+h
+7Unyzez2rclzEeybnv2RB7saqT1Dx4oK5+Pypo48atrU+SEx/tV8VFbT7La5nUsd
+xko2UxwzGhu7vJil5w16a1rqP08P1G73PJ7tNGqGxwqfb+6pDyZ27FqMGckIDcvL
+iFg4euj21WwtI3pkpnUfyo3vb+m6fHd6cXSmLv3sxNjE09313wNJvYe/jE/23f9Y
+17ocTGmYWT7+8IbPzhcafxyor23e+xNYO0sU
+=l+YS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aniketd
+
+==================================================================
