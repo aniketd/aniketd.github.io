@@ -18,13 +18,13 @@ title: About
 .. | 
 
 | I have a keen interest in Computers and their applications, and I enjoy
-| programming in Python, Erlang, Rust and Haskell.
+| Python, Javascript, Haskell, Erlang and Rust as programming languages
 
 .. | I like to think that I am target oriented, a fast learner, easily adapting and pragmatic.
 
 | My interests, besides technology, include yoga, music and books. 
 
-| I sometimes find myself seeking precision and grace in thought and in the things I do.
+.. | I sometimes find myself seeking precision and grace in thought and in the things I do.
 
 --------------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Resume
 Education
 ---------
 
-| **Bachelor of Engineering** *(Computers), 2011 — U.V.C.E.*
+| **Bachelor of Engineering** *(Computer Science), 2011 — U.V.C.E.*
 
 .. | :sub:`Discrete Mathematical Structures, Combinatorics and their applications to Computer Science; Advanced Electronic Circuit Theory and Design; Digital Systems Design; The 8085/86 Microprocessors; Computer Organization and Architecture; Computer Graphics; Object Oriented Programming; Data Structures and Algorithms; Finite Automata, Formal Languages and the Theory of Computation; Artificial Intelligence; Operating Systems; Software Engineering; Database Management Systems; Computer Networks; Compiler Design.`
 
@@ -45,34 +45,40 @@ Skills
 ------
 
 | Languages:
-| :sub:`Python, Erlang, Javascript, Rust, Haskell, C, SQL, Scheme`
+| :sub:`Python, Javascript, Haskell, Erlang, Rust, C, SQL, Scheme`
 
 | Editors:
-| :sub:`Vi/Vim/NeoVim, Sublime Text, Atom`
+| :sub:`Spacemacs, Vi/Vim/NeoVim, Sublime Text, Atom`
 
 | Frameworks:
-| :sub:`Django/Flask/bottle, Ansible/Saltstack, Scrapy, Fabric/Invoke, Twisted, Autobahn, NodeJS`
+| :sub:`React/Redux, Django/Flask/bottle, Ansible/Saltstack, Scrapy, Fabric/Invoke, Twisted, Autobahn, NodeJS, Yesod`
 
 | Web Technologies:
 | :sub:`HTML, CSS, AJAX, XML, XPATH, Socket.io/Websockets, Server-sent events`
 
 | Version Control:
-| :sub:`Git, Darcs (minimal), SVN`
+| :sub:`Git, Darcs, SVN`
 
 | Operating Systems:
 | :sub:`Linux (Arch/Debian/RedHat), Mac OS X, BSD Unix, Open Solaris, Windows`
 
 | Cloud Platforms:
-| :sub:`Amazon AWS, Armor/Firehost, Rackspace`
+| :sub:`Amazon AWS, Armor/Firehost, Rackspace, Digital Ocean`
 
 | Softwares:
-| :sub:`Redis, RabbitMQ, ZeroMQ, SQLite, PM2, MySQL, Logstash, Lucene/Solr, Statsd/Graphite, Munin, Supervisord`
+| :sub:`Redis, RabbitMQ, ZeroMQ, SQLite, PM2, PostgreSQL, MySQL, Logstash, Lucene/Solr, Statsd/Graphite, Munin, Supervisord, Nginx`
 
 ----------
 Experience 
 ----------
 
-| **Technical Lead** *, Theatro Labs — Feb 2015 - present.*
+
+| **There's no title...** *, Justchow — Nov 2016 - present.*
+|
+| :sub:`Will write more soon. In brief two of us make up the tech-team and handle the entire stack of Yesod with PostgreSQL on the backend and React/Redux on the frontend.`
+
+
+| **Technical Lead** *, Theatro Labs — Feb 2015 - Nov 2016.*
 |
 | **Senior Software Engineer** *, Theatro Labs — Feb 2014 - Feb 2015.*
 |
@@ -95,7 +101,7 @@ Experience
 | :sub:`Notikum is a personalized, contextual and location-aware promotions search engine for all major banks in Singapore. My responsibilities for Notikum included: web-mining using Scrapy and Pjscrape on PhantomJS; designing, populating and maintaining databases using MySQL; configuring the open-source search engine called Lucene using Solr to generate indexes to enable full-text search on all the content on Notikum and deploying production code on the live server. The crawlers mine data from a complex range of close to twenty websites resulting in all the information available on the Notikum website. The crawlers pipeline the scrapped data through a series of filters, data-cleaning/pruning modules, and a number of geocoding processes before finally populating the master database. Development of Notikum is no longer active.`
 
 
-| **Customer Service Associate** *(part-time), Firstsource Ltd, Bangalore — 2008-2009*
+| **Customer Service Associate** *(part-time during College), Firstsource Ltd, Bangalore — 2008-2009*
 | :sub:`Firstsource Ltd., is a multinational organization, which claims to be a forerunner in the telephonic support industry. I worked in the BSkyB support department. My responsibilities included: receiving telephone calls from all over the United Kingdom and the Republic of Ireland; providing technical support and troubleshooting their DTH set top boxes and antennae; accounting for every fault and its solution on a database using Chordiant.`
 
 --------------
